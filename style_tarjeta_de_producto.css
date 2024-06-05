@@ -21,7 +21,7 @@ footer {
 .grid_container { 
     display: grid;
     grid-template-columns: 350px 350px 350px;
-    grid-template-rows: 450px 450px 450px;
+    grid-template-rows: 450px 450px 8px;
     justify-content: center;
     grid-row-gap: 30px;
     grid-column-gap: 30px;
